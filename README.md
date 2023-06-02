@@ -1,2 +1,3 @@
 # OpenGL-3D-TennisCenter
-![Capture](https://user-images.githubusercontent.com/58906734/213871140-5768a192-c525-4536-a82d-bcd4dca0e22f.PNG)
+![Belkisa Dazdarevic - Teniski centar](https://github.com/Dazdarevic/OpenGL-3D-TennisCenter/assets/58906734/fbc01bc8-5723-40b1-80f4-28f8be3e65a2)
+
